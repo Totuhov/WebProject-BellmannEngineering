@@ -1,2 +1,3 @@
 # WebProject-BellmannEngineering
- Das ist die Webseite-Projekt für unsere Praktikum in Bellman Engineering
+
+Dies ist das Website-Projekt für unser Bellman Engineering-Praktikum
