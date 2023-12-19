@@ -1,0 +1,59 @@
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 96vh;    
+}
+
+header{
+    width: 100%;
+    max-width: 80rem;
+}
+
+
+footer {
+    border: 2px solid green;
+}
+
+.logo {    
+    max-width: 12rem;
+    margin: 0 0.5rem;
+    border: 0px;
+    display: inline;
+}
+
+p {
+    display: inline;
+}
+
+.menu{
+    width: 100%;
+    max-width: 80rem;
+    display: flex;
+}
+
+.menu-list{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 0 1rem;
+}
+
+.menu-list a{
+    font-size: 1rem;
+    padding-bottom: 0.5rem;
+    text-decoration-line: none;
+    color: #2d3239;
+    font-family: "Adriane", "Times new Roman", sans-serif;
+    text-transform: uppercase;
+}
+
+a:active, a:hover {
+  outline: 0;
+  border-bottom: 1px solid #2d3239;
+}
+
+
